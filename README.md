@@ -26,6 +26,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 ![](https://komarev.com/ghpvc/?username=adasukoksal)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)]
 ![Snake animation](https://github.com/adasukoksal/adasukoksal/blob/output/github-contribution-grid-snake.svg)
 <!---
 adasukoksal/adasukoksal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
