@@ -26,8 +26,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 ![](https://komarev.com/ghpvc/?username=adasukoksal)
-![Snake animation]
-https://raw.githubusercontent.com/adasukoksal/adasukoksal/output/github-contribution-grid-snake-dark.svg
+![Snake animation](https://github.com/adasukoksal/adasukoksal/blob/output/github-contribution-grid-snake.svg)
 <!---
 adasukoksal/adasukoksal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
